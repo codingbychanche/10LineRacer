@@ -1,7 +1,7 @@
 Racer, RetroZock 2020
 ----------------------
 Mein Beitrag zum Basic- 10- liner Wettbewerb 2020.
-Kategorie: Extreme 256.
+Kategorie: Pur- 120.
 
 Alle Wettbewerbsbeiträge: (Offizielle Seite): https://gkanold.wixsite.com/homeputerium)
 
