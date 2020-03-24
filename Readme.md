@@ -3,7 +3,7 @@ Racer, RetroZock 2020
 Mein Beitrag zum Basic- 10- liner Wettbewerb 2020.
 Kategorie: Extreme 256.
 
-Alle Wettbewerbsbeiträge: (Offizielle Seite:) https://gkanold.wixsite.com/homeputerium)
+Alle Wettbewerbsbeiträge: (Offizielle Seite): https://gkanold.wixsite.com/homeputerium)
 
 Getestet mit Atari800MacX v5.0.1 und auf der original Hardware, einem Atari800XL.
 
