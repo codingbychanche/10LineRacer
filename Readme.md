@@ -3,7 +3,11 @@ Racer, RetroZock 2020
 Mein Beitrag zum Basic- 10- liner Wettbewerb 2020.
 Kategorie: Pur- 120.
 
-Alle Wettbewerbsbeiträge: (Offizielle Seite): https://gkanold.wixsite.com/homeputerium)
+Alle Wettbewerbsbeiträge: (Offizielle Seite): https://gkanold.wixsite.com/homeputerium).
+
+Ein Artikel auf meinem Blog in dem ich mich mit der Frage beschäftigt habe, wie das Spiel den
+einzuordnen sei. Wer jetzt denkt, ganz klar, das ist doch ein Rennspiel, falsch gedacht......
+Den Blog Eintrag gibt es da:(RetroZock 10Liner 2020): https://retrozock.com/2020/03/28/basic-10liner-contest-2020/#more-2201).
 
 Getestet mit Atari800MacX v5.0.1 und auf der original Hardware, einem Atari800XL.
 
