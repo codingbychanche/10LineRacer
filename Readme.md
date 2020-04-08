@@ -7,6 +7,7 @@ Alle Wettbewerbsbeiträge: (Offizielle Seite): https://gkanold.wixsite.com/homep
 
 Ein Artikel auf meinem Blog in dem ich mich mit der Frage beschäftigt habe, wie das Spiel den
 einzuordnen sei. Wer jetzt denkt, ganz klar, das ist doch ein Rennspiel, falsch gedacht......
+
 Den Blog Eintrag gibt es da:
 (RetroZock 10Liner 2020):https://retrozock.com/2020/03/28/basic-10liner-contest-2020/#more-2201).
 
